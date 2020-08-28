@@ -1,0 +1,13 @@
+@media screen and (max-width:  900px) {
+   .pc{display:none;}
+   .celular{display:block;}
+    
+
+}
+@media screen and (min-width:  900px) {
+    .pc{display:block;}
+    .celular{display:none;}
+     
+ 
+}
+ 
